@@ -1,6 +1,6 @@
 # Resumette
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Farmsasmart%2Fresume)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fnarze%2Fresume)
 
 Interactive & printable résumé with tailored skills fitted in single letter page.
 
