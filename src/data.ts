@@ -41,10 +41,19 @@ export const educations = [
 
 export const workExperiences = [
   {
-    position: "Web Developer",
+    position: "Software Engineer",
+    company: "Opn",
+    url: "https://www.opn.ooo",
+    years: ["Aug 2021", "Current"],
+    details: [
+      "Make OPN products for help everyone"
+    ]
+  },
+  {
+    position: "Web Developer (Contract Transferred to OPN)",
     company: "EventPop",
     url: "https://eventpop.me",
-    years: ["2021", "Current"],
+    years: ["Jan 2021", "Aug 2021"],
     details: [
       "Collaborated with other developers on designing, developing, testing and solving problems.",
       "Develop our product for help, solve the problem to customer.",
@@ -56,7 +65,7 @@ export const workExperiences = [
     position: "Software Engineer",
     company: "ENTER Corporation Co.,Ltd.",
     url: "https://entercorp.net",
-    years: ["2018", "2020"],
+    years: ["May 2018", "Nov 2020"],
     details: [
       "Collaborated with other developers on designing, developing, testing and solving problems.",
       "Provided web support and beneficial advice to clients.",
