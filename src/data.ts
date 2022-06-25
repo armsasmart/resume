@@ -16,7 +16,7 @@ export const introData = {
 
 export const technologies = [
   {
-    section: "Programming Languages:",
+    section: "Programming:",
     details:
       "PHP, JavaScript, TypeScript, HTML, CSS, , SQL"
   },
