@@ -16,19 +16,44 @@ export const introData = {
 
 export const technologies = [
   {
-    section: "Languages:",
+    section: "Programming Languages:",
     details:
-      "PHP, JavaScript, Node.js. TypeScript, SQL."
+      "PHP, JavaScript, TypeScript, HTML, CSS, , SQL"
   },
   {
-    section: "Frameworks:",
+    section: "UI Frameworks:",
     details:
-      "Laravel, ReactJS, NextJS, TailwindCSS, Chakra UI"
+      "Tailwind, Chakra UI, Bulma, React, NextJS"
+  },
+  {
+    section: "Backend:",
+    details:
+      "Node.js, NestJS, Express, GraphQL, Sequelize, Elasticsearch, Prisma, Laravel"
+  },
+  {
+    section: "Infrastructure:",
+    details:
+      "Docker, PostgreSQL, MySQL, Redis, RabbitMQ"
+  },
+  {
+    section: "Testing:",
+    details:
+      "Cypress, Jest, React Testing Library"
   },
   {
     section: "Tools:",
     details:
-      "Git"
+      "Git, VS Code"
+  },
+  {
+    section: "Languages:",
+    details:
+      "Thai (Native), English (Conversational)"
+  },
+  {
+    section: "Others:",
+    details:
+      "System analysis and design, Database design, Software testing methodology, Agile methodolgy"
   }
 ]
 
@@ -46,7 +71,11 @@ export const workExperiences = [
     url: "https://www.opn.ooo",
     years: ["Aug 2021", "Current"],
     details: [
-      "Make OPN products for help everyone"
+      "Developed Opn.Store (eCommerce)",
+      "Developed 5 E-commerce related services for Opn.Store (Email, Frontend, Core, Payment, Promotion)",
+      "Helped, and collaborated with software engineering team on designing, testing, and coding with good practices from my experience",
+      "Helped, and collaborated with the cross-functional team to make the team works easily and correctly",
+      "Helped the team resolve the production issue"
     ]
   },
   {
@@ -55,6 +84,7 @@ export const workExperiences = [
     url: "https://eventpop.me",
     years: ["Jan 2021", "Aug 2021"],
     details: [
+      "Contract Transferred to Opn",
       "Collaborated with other developers on designing, developing, testing and solving problems.",
       "Develop our product for help, solve the problem to customer.",
       "Daily meeting with team (agile).",
