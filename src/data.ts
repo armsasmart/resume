@@ -75,7 +75,8 @@ export const workExperiences = [
       "Developed 5 E-commerce related services for Opn.Store (Email, Frontend, Core, Payment, Promotion)",
       "Helped, and collaborated with software engineering team on designing, testing, and coding with good practices from my experience",
       "Helped, and collaborated with the cross-functional team to make the team works easily and correctly",
-      "Helped the team resolve the production issue"
+      "Helped the team resolve the production issue",
+      "Mentor other software engineers about overview projects, a technical topic"
     ]
   },
   {
